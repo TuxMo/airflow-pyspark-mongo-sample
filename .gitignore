@@ -1,0 +1,6 @@
+.env
+config
+dags
+logs
+mongo-data
+plugins
